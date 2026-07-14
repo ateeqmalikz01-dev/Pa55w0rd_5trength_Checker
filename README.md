@@ -15,6 +15,9 @@ A defensive security tool that evaluates password strength using entropy analysi
 
 # Clone in Linux:
 
+gh repo clone ateeqmalikz01-dev/Pa55w0rd_5trength_Checker
+
+# How to Use:
 
 ```bash
 # Interactive mode (hidden input)
