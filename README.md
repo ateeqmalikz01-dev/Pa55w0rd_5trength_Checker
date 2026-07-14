@@ -13,6 +13,9 @@ A defensive security tool that evaluates password strength using entropy analysi
 
 ## Usage
 
+# Clone in Linux:
+
+
 ```bash
 # Interactive mode (hidden input)
 python password_strength.py
